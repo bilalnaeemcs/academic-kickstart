@@ -19,13 +19,10 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/Bilal19987
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Martian1998
 education:
   courses:
     - course: BSc in Computer Science
