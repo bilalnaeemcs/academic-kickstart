@@ -10,9 +10,9 @@ authors:
   - admin
 bio: My research interests include in Machine Learning, Networking and Security.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Networking
+  - Security
 social:
   - icon: envelope
     icon_pack: fas
