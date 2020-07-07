@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Work "
   company = "with Dr. Fareed Zaffar"
-  company_url = ""
+  company_url = "https://lums.edu.pk/lums_employee/422"
   location = "Lahore, Pakistan"
   date_start = "2019-05-01"
   date_end = ""
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "CS 100 with Dr. Tariq Jadoon"
-  company_url = ""
+  company = "CS 100 with Dr. Tariq Jadoon @ LUMS"
+  company_url = "https://lums.edu.pk"
   location = "Lahore"
   date_start = "2019-08-01"
   date_end = "2019-12-01"
@@ -43,8 +43,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "CS 100 with Dr. Junaid Haroon Siddique"
-  company_url = ""
+  company = "CS 100 with Dr. Junaid Haroon Siddique @ LUMS"
+  company_url = "https://lums.edu.pk"
   location = "Lahore"
   date_start = "2020-01-01"
   date_end = "2020-05-01"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Internship and Freelance Work"
+  title = "Internship"
   company = "Softronix"
   company_url = "https://softronix.pk/"
   location = "Lahore"

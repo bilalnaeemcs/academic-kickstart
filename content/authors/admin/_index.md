@@ -33,4 +33,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a CS  senior @ LUMS. I am interested in  Networking, Machine Learning and Security research. I am currently working on a Networking Research Project and have previously worked in Android and Web Security. I also enjoy development, I have worked in Web Development, Windows Application Development and Android Development. I am recently working on a side project focused on Plasma Donation for Corona Patients, which is soon planned to be deployed.
+I am a CS  senior @ LUMS. I am interested in  Networking, Machine Learning and Security research. I am currently working on a Networking Research Project and have previously worked in Android and Web Security. I also enjoy development, I have worked in Web Development, Windows Application Development and Android Development. I am recently working on a side project focused on Plasma Donation System for Corona Patients, which will soon be to be deployed.
