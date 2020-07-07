@@ -18,27 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Work "
+  company = "w/ Dr. Fareed Zaffar"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Lahore, Pakistan"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Worked on:
+  * API Data Leakage
+  * Software Defined Networking
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "CS 100 with Dr. Tariq Jadoon"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Lahore"
+  date_start = "2019-08-01"
+  date_end = "2019-12-01"
+  description = """
+  Acted as a Teaching Assistant during Fall 2019 with Dr. Tariq Jadoon.
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "CS 100 w/ Dr. Junaid Haroon Siddique"
+  company_url = ""
+  location = "Lahore"
+  date_start = "2020-01-01"
+  date_end = "2020-05-01"
+  description = """
+  Acted as a Teaching Assistant duringSpring 2020 with Dr. Junaid Haroon Siddique and helped student explore through a revamped state of the art introductory CS course.
+  """
+
+
+[[experience]]
+  title = "Internship and Freelance Work"
+  company = "Softronix"
+  company_url = "https://softronix.pk/"
+  location = "Lahore"
+  date_start = "2020-01-01"
+  date_end = "2020-03-01"
+  description = """
+  Developed Following for Softronix:
+  * Retail Mangement System for Mobile Retailers (ASP.NET)
+  * Backend APIs and Windows Services for Medicine Sales System already working on enormous scale(ASP.NET)
+  """
 
 +++

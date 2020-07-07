@@ -30,7 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -58,7 +58,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
 [advanced]
  # Custom CSS. 
  css_style = ""
