@@ -3,8 +3,7 @@ title: "Ad Fraud Analysis "
 date: 2020-07-07T13:49:39.996Z
 draft: false
 featured: false
-authors:
-  - Bilal Naeem
+
 tags:
   - Data Science
   - Machine Learning
