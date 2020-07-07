@@ -20,7 +20,7 @@ links:
   - url: https://medium.com/@abdurrehman_92600/analyzing-ad-frauds-in-youtube-videos-1d0155a0cba5
     name: Medium Article
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
