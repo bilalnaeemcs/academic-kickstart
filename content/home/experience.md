@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = "2020-05-01"
   description = """
-  Acted as a Teaching Assistant duringSpring 2020 with Dr. Junaid Haroon Siddique and helped student explore through a revamped state of the art introductory CS course.
+  Acted as a Teaching Assistant during Spring 2020 for CS 100 with Dr. Junaid Haroon Siddique and helped student explore a revamped state of the art introductory CS course.
   """
 
 
