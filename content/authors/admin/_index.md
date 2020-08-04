@@ -17,9 +17,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/Bilal19987
+    link: https://www.linkedin.com/in/muhammad-bilal-naeem-50b406175
   - icon: github
     icon_pack: fab
     link: https://github.com/Martian1998
@@ -33,4 +33,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a CS  senior @ LUMS. I am interested in  Networking, Machine Learning, and Security research. I am currently working on a Networking Research Project with Dr. Fareed Zaffar and have previously worked in Android and Web Security. I also enjoy development, I have worked in Web Development, Windows Application Development, and Android Development. I am recently working on a side project focused on Plasma Donation System for Corona Patients, whose beta version is deployed at <https://madagaar-fba66.web.app/>.
+I am a CS  senior @ LUMS. I am interested in  Networking, Machine Learning, and Security research. I am currently working on a Networking Research Project with Dr. Fareed Zaffar and have previously worked in Android and Web Security. I also enjoy development, I have worked in Web Development, Windows Application Development, and Android Development. I am recently working on a side project focused on Plasma Donation System for Corona Patients, whose beta version is deployed at [](https://madagaar-fba66.web.app/)<https://madadgaar.com.pk>
