@@ -1,7 +1,7 @@
 ---
 title: Bilal Naeem
 role: BS CS Senior
-avatar_filename: avatar.png
+avatar_filename: avatar.jpeg
 organizations:
   - name: LUMS
     url: https://www.lums.edu.pk/
