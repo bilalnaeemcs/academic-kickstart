@@ -10,9 +10,9 @@ authors:
   - admin
 bio: My research interests include in Systems, Security and Program Analysis.
 interests:
-  - Machine Learning
-  - Networking
+  - System
   - Security
+  - Program Analysis
 social:
   - icon: envelope
     icon_pack: fas
