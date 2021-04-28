@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.codeschool.pk/about"
   location = "Lahore, Pakistan"
   date_start = "2020-07-27"
-  date_end = ""
+  date_end = "2020-10-27"
   description = """
   Acting as an instructor for Scratch and Python.
   """
