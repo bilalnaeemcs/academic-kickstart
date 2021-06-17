@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/muhammad-bilal-naeem-50b406175
   - icon: github
     icon_pack: fab
-    link: https://github.com/Martian1998
+    link: https://github.com/martianbilal
 education:
   courses:
     - course: BSc in Computer Science
