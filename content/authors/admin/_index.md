@@ -3,7 +3,7 @@ title: Bilal Naeem
 role: Ph.D. Candidate
 avatar_filename: avatar.jpeg
 organizations:
-  - name: LUMS
+  - name: Purdue
     url: https://www.purdue.edu/
 superuser: true
 authors:
