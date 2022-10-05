@@ -1,14 +1,14 @@
 ---
 title: Bilal Naeem
-role: BS CS Senior
+role: Ph.D. Candidate
 avatar_filename: avatar.jpeg
 organizations:
   - name: LUMS
-    url: https://www.lums.edu.pk/
+    url: https://www.purdue.edu/
 superuser: true
 authors:
   - admin
-bio: My research interests include in Systems, Security and Program Analysis.
+bio: My research interests include Systems, Security and Program Analysis.
 interests:
   - System
   - Security
@@ -25,6 +25,8 @@ social:
     link: https://github.com/martianbilal
 education:
   courses:
+    - course: Ph.D Computer Science
+      institution: Purdue University
     - course: BSc in Computer Science
       institution: Lahore University of Management Sciences
       year: 2021
@@ -33,4 +35,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a CS  senior @ LUMS. I am interested in  Systems, Security and Program Analysis. I am currently working on a Networking Research Project with Dr. Fareed Zaffar and have previously worked in Android and Web Security. I also enjoy development, I have worked in Web Development, Windows Application Development, and Android Development. I have worked on a side project focused on Plasma Donation System for Corona Patients, whose beta version is deployed at [](https://madagaar-fba66.web.app/)<https://madadgaar.com.pk>
+I am a CS Ph.D. candidate working in Reliable and Secure Systems Lab @ Purdue University.
