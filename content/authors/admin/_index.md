@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include Systems, Security and Program Analysis.
+bio: ""
 interests: []
 social:
   - icon: envelope
