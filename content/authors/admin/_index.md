@@ -1,7 +1,7 @@
 ---
 title: Bilal Naeem
 role: Ph.D. Candidate
-avatar_filename: avatar.jpeg
+avatar_filename: portrait.jpeg
 organizations:
   - name: Purdue
     url: https://www.purdue.edu/
@@ -9,10 +9,7 @@ superuser: true
 authors:
   - admin
 bio: My research interests include Systems, Security and Program Analysis.
-interests:
-  - System
-  - Security
-  - Program Analysis
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +22,7 @@ social:
     link: https://github.com/martianbilal
 education:
   courses:
-    - course: Ph.D Computer Science
+    - course: Master's Computer Science
       institution: Purdue University
     - course: BSc in Computer Science
       institution: Lahore University of Management Sciences
@@ -35,4 +32,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a CS Ph.D. candidate working in Reliable and Secure Systems Lab @ Purdue University.
+Hi there! I'm Bilal Naeem, an engineer with a knack for turning complex problems into simple solutions and a penchant for diving deep into the world of 0s and 1s. With a Master's in Computer Science from Purdue and a Bachelor's from LUMS, I've ventured through the realms of virtualization, software security, and much more, always with a cup of coffee in hand and a curiosity that never fades.
