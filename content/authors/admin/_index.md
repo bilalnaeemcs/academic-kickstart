@@ -28,8 +28,6 @@ education:
       institution: Lahore University of Management Sciences
       year: 2021
 email: ""
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 ---
 Hi there! I'm Bilal Naeem, an engineer with a knack for turning complex problems into simple solutions and a penchant for diving deep into the world of 0s and 1s. With a Master's in Computer Science from Purdue and a Bachelor's from LUMS, I've ventured through the realms of virtualization, software security, and much more, always with a cup of coffee in hand and a curiosity that never fades.
