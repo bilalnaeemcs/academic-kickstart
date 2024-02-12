@@ -30,4 +30,5 @@ education:
 email: ""
 user_groups: []
 ---
-Hi there! I'm Bilal Naeem, an engineer with a knack for turning complex problems into simple solutions and a penchant for diving deep into the world of 0s and 1s. With a Master's in Computer Science from Purdue and a Bachelor's from LUMS, I've ventured through the realms of virtualization, software security, and much more, always with a cup of coffee in hand and a curiosity that never fades.
+
+Hey there! I’m Bilal Naeem 🚀, your go-to tech maestro. Armed with a Master’s from Purdue 🎓 and a Bachelor’s from LUMS, I’ve navigated the realms of virtualization and software security, always with my faithful coffee ☕ in hand. Driven by an unending curiosity for the mystical world of 0s and 1s, I’ve embarked on tech adventures that transform complexities into simplicity. Join me on this exhilarating journey, where every challenge is a puzzle waiting to be solved!
