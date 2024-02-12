@@ -1,6 +1,6 @@
 ---
 title: Bilal Naeem
-role: Ph.D. Candidate
+role: ""
 avatar_filename: portrait.jpeg
 organizations:
   - name: Purdue
