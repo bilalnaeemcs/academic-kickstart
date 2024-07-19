@@ -9,16 +9,7 @@ subtitle = ""
 
 date_format = "Jan 2006"
 
-<!-- [[experience]]
-  title = "Software Engineer"
-  company = "Purdue University"
-  company_url = "https://www.purdue.edu/"
-  location = "West Lafayette, IN"
-  date_start = "2022-05-01"
-  date_end = ""
-  description = """
-  Contributed to Systems Programming and Operating Systems courses, enhancing learning experiences and reducing testing time by optimizing parallel testbenches.
-  """ -->
+
 
 [[experience]]
   title = "Software Engineer"
