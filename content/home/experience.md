@@ -9,8 +9,8 @@ subtitle = ""
 
 date_format = "Jan 2006"
 
-[[experience]]
-  title = "Graduate Teaching Assistant"
+<!-- [[experience]]
+  title = "Software Engineer"
   company = "Purdue University"
   company_url = "https://www.purdue.edu/"
   location = "West Lafayette, IN"
@@ -18,10 +18,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Contributed to Systems Programming and Operating Systems courses, enhancing learning experiences and reducing testing time by optimizing parallel testbenches.
-  """
+  """ -->
 
 [[experience]]
-  title = "Systems Researcher"
+  title = "Software Engineer"
   company = "Purdue Reliable and Secure Systems Lab"
   company_url = "https://www.purdue.edu/"
   location = "West Lafayette, IN"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Intern"
+  title = "Software Engineer"
   company = "SRI International"
   company_url = "https://www.sri.com/"
   location = "Remote"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Systems Researcher"
+  title = "Software Engineer"
   company = "LUMS Internet Security and Privacy Lab"
   company_url = "https://lums.edu.pk/"
   location = "Lahore, Pakistan"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Intern"
+  title = "Software Engineer"
   company = "Softronix Inc."
   company_url = "https://softronix.pk/"
   location = "Lahore, Pakistan"
