@@ -11,6 +11,7 @@ date_format = "Jan 2006"
 
 
 
+
 [[experience]]
   title = "Software Engineer"
   company = "Purdue Reliable and Secure Systems Lab"
@@ -19,8 +20,12 @@ date_format = "Jan 2006"
   date_start = "2021-06-01"
   date_end = "2023-12-01"
   description = """
-  Led the HyperODF project, advancing virtualization and serverless computing through innovative systems solutions. Directed Recollect project, enhancing software reliability.
+  - Led the HyperODF project, designing next-gen QEMU/KVM VM cloning optimizing, virtualization and serverless computing with rigorous testing and debugging protocols.
+  - Spearheaded communication and collaboration between the team and the open-source community.
+  - Contributed to the development of LLVM based optimization of serverless environments and fast-forward of VM startup in QEMU.
+  - Maintained extensive documentation for multiple projects, ensuring seamless onboarding of new team members.
   """
+
 
 [[experience]]
   title = "Software Engineer"
