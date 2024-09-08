@@ -19,7 +19,7 @@ social:
     link: https://www.linkedin.com/in/muhammad-bilal-naeem-50b406175
   - icon: github
     icon_pack: fab
-    link: https://github.com/martianbilal
+    link: https://github.com/bilalnaeemcs
 education:
   courses:
     - course: Master's Computer Science
