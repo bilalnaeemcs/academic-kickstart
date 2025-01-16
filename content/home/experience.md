@@ -10,6 +10,16 @@ subtitle = ""
 date_format = "Jan 2006"
 
 
+[[experience]]
+  title = "R&D Engineer | Systems Software Engineer"
+  company = "Mobby AI (Sunday Group Inc.)"
+  company_url = "https://www.mobby.ai/"
+  location = ""
+  date_start = "2024-09-11"
+  date_end = ""
+  description = """
+  - Working on creating a proof-of-reputation based hybrid blockchain in Rust.
+  """
 
 
 [[experience]]
